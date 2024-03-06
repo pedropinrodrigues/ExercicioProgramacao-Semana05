@@ -20,7 +20,7 @@ print(a)
 **1)** O que o código a seguir faz?
 
 ![Uma imagem](assets/ex01.PNG)
-
+ 
 Escolha a opção que responde corretamente:
 
 a) Imprime os números pares de 1 a 10.
